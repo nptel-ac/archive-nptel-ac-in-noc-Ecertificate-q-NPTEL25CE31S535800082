@@ -1,6 +1,6 @@
 window.onload = () => {
   setTimeout(function () {
-    const seturl = "NPTEL24CS83S454400710.html";
+    const seturl = "NPTEL25CE31S535800082.html";
     window.location.href = window.location.href + seturl;
   }, 1000);
 };
